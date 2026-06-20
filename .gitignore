@@ -1,0 +1,6 @@
+/.vscode
+/01_create_database.sql
+/02_create_tables.sql
+/03_modify_tables.sql
+/test.session.sql
+/test.sql
