@@ -170,6 +170,6 @@ Thank you for checking out my project!
 
 ## Acknowledgments
 
-Special thanks to [Najir H.]([https://github.com/ZeroAnalyst](https://github.com/najirh)) for providing the retail sales dataset and practice questions that inspired this project. All SQL solutions, analysis, documentation, and project implementation in this repository were completed independently as part of my learning journey.
+Special thanks to ([Najir H.](https://github.com/najirh)) for providing the retail sales dataset and practice questions that inspired this project. All SQL solutions, analysis, documentation, and project implementation in this repository were completed independently as part of my learning journey.
 
 
